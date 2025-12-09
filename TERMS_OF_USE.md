@@ -36,5 +36,5 @@ WE SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR 
 We reserve the right to modify these Terms at any time. Your continued use of the App following any changes indicates your acceptance of the new Terms.
 
 ## 9. Contact
-If you have any questions about these Terms, please contact us via our GitHub repository: [https://github.com/OktAI-Simsek/RemindMew](https://github.com/OktAI-Simsek/RemindMew).
+If you have any questions about these Terms, please contact us via oktaysimsek11@gmail.com
 
