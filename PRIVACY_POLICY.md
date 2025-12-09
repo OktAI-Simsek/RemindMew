@@ -1,4 +1,4 @@
-# Privacy Policy for RemindMew
+# Privacy Policy for RemindMew  test
 
 **Last Updated: December 9, 2025**
 
