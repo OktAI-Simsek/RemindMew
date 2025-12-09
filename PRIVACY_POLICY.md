@@ -21,7 +21,7 @@ To provide the App's core features—such as generating personalized motivationa
 
 - **How it works:** When you request an AI-generated message or report, the text content you have provided (e.g., your goals, journal entries, mood) is securely transmitted to OpenAI's API for processing.
 - **Data Handling:** OpenAI processes this data solely to generate the response and returns it to the App. We do not authorize OpenAI to use your data to train their models.
-- **Privacy Policy:** We encourage you to review OpenAI's Privacy Policy to understand how they handle data: [https://openai.com/policies/privacy](https://openai.com/policies/privacy).
+- **Privacy Policy:** We encourage you to review OpenAI's Privacy Policy to understand how they handle data: https://openai.com/policies/privacy-policy/ 
 
 ## 5. Feedback
 If you choose to send us feedback via the App, the content of your feedback (and any contact information you voluntarily provide) will be sent to us via a third-party form service (Formspree). We use this information solely to improve the App and respond to your inquiries.
@@ -33,5 +33,5 @@ The App is not directed to individuals under the age of 13. We do not knowingly 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date.
 
 ## 8. Contact Us
-If you have any questions about this Privacy Policy, please contact us via our GitHub repository: [https://github.com/OktAI-Simsek/RemindMew](https://github.com/OktAI-Simsek/RemindMew).
+If you have any questions about this Privacy Policy, please contact us via oktaysimsek11@gmail.com 
 
