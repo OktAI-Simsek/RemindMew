@@ -69,5 +69,5 @@ RemindMew is not intended for children under 13. We do not knowingly collect per
 We may update this Privacy Policy from time to time. When we do, we will update the “Last Updated” date above.
 
 ## 10. Contact
-If you have questions about this Privacy Policy, contact: oktatek
+If you have questions about this Privacy Policy, contact: oktatek@outlook.com
 
