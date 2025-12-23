@@ -1,6 +1,7 @@
 # Terms of Use for RemindMew
 
 **Effective Date: December 13, 2025**  
+**Last Update Date: December 23, 2025**  
 
 ## 1. Acceptance of Terms
 By downloading, installing, or using the RemindMew mobile application (the “App”), you agree to these Terms of Use (“Terms”). If you do not agree, do not use the App.
@@ -18,9 +19,9 @@ The App is intended for personal, non-commercial use unless we explicitly agree 
 
 ## 4. AI-Generated Content Disclaimer
 The App may use AI services provided by third parties (including OpenAI) to generate text and/or voice content.
-- **No guarantee:** AI outputs may be incorrect, incomplete, misleading, or inappropriate.
-- **User responsibility:** You are responsible for reviewing and deciding how (or whether) to use AI-generated content.
-- **No liability:** We are not responsible for actions you take based on AI-generated content.
+**No guarantee:** AI outputs may be incorrect, incomplete, misleading, or inappropriate.
+**User responsibility:** You are responsible for reviewing and deciding how (or whether) to use AI-generated content.
+**No liability:** We are not responsible for actions you take based on AI-generated content.
 
 ## 5. Your Content
 You retain ownership of the content you enter into the App (e.g., reminder notes and journal entries) (“User Content”).
@@ -28,6 +29,10 @@ You retain ownership of the content you enter into the App (e.g., reminder notes
 **Local storage:** The App is designed so that your reminders and journal entries are stored locally on your device. We do not provide user accounts and we do not store your content on our own servers as part of normal operation.
 
 **AI processing:** If you request AI features, you authorize the App to send relevant text you provide for processing by third-party AI providers, routed through our secure proxy infrastructure used to protect API credentials.
+
+**User responsibility for User Content:** You are solely responsible for all content you enter into the App, including goals, reminders, notes, and journal entries (“User Content”). We do not review, monitor, or control User Content, and we are not responsible for its accuracy, legality, or appropriateness.
+
+**Rights and compliance:** You represent and warrant that you own or have the necessary rights to enter your User Content into the App and that it does not violate any law or infringe any third-party rights (including intellectual property, privacy, or publicity rights).
 
 ## 6. Acceptable Use
 You agree not to:
@@ -37,9 +42,10 @@ You agree not to:
 
 ## 7. Third-Party Services
 The App uses third-party services, which may have their own terms and policies, including:
-- **OpenAI** for AI content generation
-- **Google Firebase Analytics** for app usage analytics
-- **Formspree** if you submit feedback through the App
+**OpenAI** for AI content generation
+**Google Firebase Analytics** for app usage analytics
+**Formspree** if you submit feedback through the App
+**Revenuecat** to manage in-app purchases and subscriptions 
 
 Your use of those services may be subject to their terms and privacy policies.
 
