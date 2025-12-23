@@ -13,6 +13,7 @@ The App is intended for personal, non-commercial use unless we explicitly agree 
 
 ## 3. Medical and Mental Health Disclaimer
 **The App is not a medical device and does not provide medical, mental health, or professional advice.**
+
 - AI-generated content and app content are for informational, educational, and/or entertainment purposes only.
 - Do not rely on the App for diagnosis, treatment, or crisis support.
 - If you believe you may be experiencing an emergency, contact local emergency services immediately.
