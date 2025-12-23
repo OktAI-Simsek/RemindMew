@@ -20,7 +20,7 @@ We do not automatically back up this data to our own servers. If you delete the 
 ## 3. Data We Collect
 We collect limited data only for the purposes described below.
 
-**3.1 Firebase Analytics (Usage Statistics)
+**3.1 Firebase Analytics (Usage Statistics)**
 We use **Firebase Analytics** (provided by Google) to measure app usage and improve features. This may include:
 - App interactions and events (e.g., creating/updating/deleting a reminder, generating an AI message, opening Weekly Insights)
 - Basic device/app information (e.g., platform, app version), and identifiers used by Firebase for analytics measurement
@@ -29,7 +29,7 @@ We use **Firebase Analytics** (provided by Google) to measure app usage and impr
 
 Learn more about Google/Firebase data practices: `https://policies.google.com/privacy`.
 
-**3.2 AI Requests (OpenAI)
+**3.2 AI Requests (OpenAI)**
 When you request AI features (e.g., motivational messages, voice generation, weekly insights), the App sends the relevant text you provide (such as your selected tone, goals, reminder notes, and/or journal entries) for processing.
 
 **How it works technically:** requests are routed through a secure proxy endpoint hosted on **Firebase / Google Cloud** (used to protect the OpenAI API key). The proxy forwards your request to **OpenAI**, receives the response, and returns it to the App.  
@@ -37,11 +37,11 @@ When you request AI features (e.g., motivational messages, voice generation, wee
 
 OpenAI’s Privacy Policy: `https://openai.com/policies/privacy-policy/`.
 
-**3.3 Feedback (Formspree)
+**3.3 Feedback (Formspree)**
 If you choose to send feedback from within the App, the text you submit is sent through **Formspree** (a third-party form provider) and delivered to our email inbox so we can improve the App.  
 Formspree’s Privacy Policy: `https://formspree.io/legal/privacy-policy/`.
 
-**3.4 Subscriptions and In App Purchases (RevenueCat)
+**3.4 Subscriptions and In App Purchases (RevenueCat)**
 We use RevenueCat to manage subscriptions and in app purchases (e.g., to validate purchases, track subscription status, and enable premium access across app sessions). This may include:
 
 Purchase and subscription information (e.g., product identifier, purchase status, subscription tier, renewal/expiration status)
